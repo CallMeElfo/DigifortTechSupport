@@ -1,0 +1,7 @@
+Name,Description,Model,Address,Channel,Port,User,Pass,Directory
+Recepção Teste,Recepção,Axis P336787-V,10.3.21.2,1,80,admin,admin,C:\
+40,Dome Entrada,Digifort RTSP Server,10.1.10.10,1,8601,admin,admin,C:\
+73,Automation demo,Axis P1346,10.1.29.2,1,80,admin,admin,C:\
+79,Facial recognition,Digifort RTSP Server,10.1.10.10,1,8601,admin,admin,C:\
+ArieTest,ArieTest,Dahua DH-TPC-BF-2120,74.11.30.130,1,81,admin,admin,C:\
+Test,Test,ONVIF,test,1,80,admin,admin,C:\

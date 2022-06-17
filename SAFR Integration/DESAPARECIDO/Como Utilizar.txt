@@ -1,0 +1,9 @@
+Passo 1) Mover todas as fotos para a pasta original (as fotos devem ter o nome do cadastrado como no do arquivo de foto, por exemplo: João da Silva.jpg)
+
+Passo 2) Abrir o arquivo people_import_idclass.py com um editor de texto e alterar os valores necessários (userID, userpw, endereço, idclass, etc)
+
+Passo 3) Abrir o CMD e navegar até a pasta onde está o script + pastas
+
+Passo 4) Executar o comando pip install -r requirements.txt --upgrade --user
+
+Passo 5) Executar o comando python people_import_idclass.py

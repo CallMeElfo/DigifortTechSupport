@@ -1,0 +1,5 @@
+# Digifort Driver Consultor
+
+This program was developed to better assist the Tech Support team when trying to find compatible devices within the Digifort system. The way it works is fairly simple. Once the base table (you can get taht upon cosultation with Digifort's Technical Support team via support@digifort.com) has been loaded the user can select the model they are currently testing on the left panel. This will load all the drivers that model uses, and then the user can use the left-most checkboxes to notify which drivers are currently working. On the right-most checkboxes the user can select which features they're looking for and the system will load up all the models that fit that criteria.
+
+So for example if a Tech Support agent has tested a given model "A" that has H264 Video, H265 Video and IOs working, but they're looking for PTZ on top of that they would check the boxes for H264, H265 and IOs on the left panel and then click on the checkbox for PTZ on the right panel. Once they click ok the program will load on the right-side panel all the cameras that fit that criteria.
